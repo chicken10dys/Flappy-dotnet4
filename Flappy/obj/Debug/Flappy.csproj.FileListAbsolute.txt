@@ -1,0 +1,11 @@
+/home/ashton/RiderProjects/OutputDemo/Flappy/obj/Debug/Flappy.csproj.AssemblyReference.cache
+/home/ashton/RiderProjects/OutputDemo/Flappy/obj/Debug/Flappy.csproj.CoreCompileInputs.cache
+/home/ashton/RiderProjects/OutputDemo/Flappy/bin/Debug/Flappy.exe.config
+/home/ashton/RiderProjects/OutputDemo/Flappy/bin/Debug/Flappy.exe
+/home/ashton/RiderProjects/OutputDemo/Flappy/bin/Debug/Flappy.pdb
+/home/ashton/RiderProjects/OutputDemo/Flappy/bin/Debug/GameUtility.dll
+/home/ashton/RiderProjects/OutputDemo/Flappy/bin/Debug/MonoGame.Framework.dll
+/home/ashton/RiderProjects/OutputDemo/Flappy/bin/Debug/MonoGame.Framework.xml
+/home/ashton/RiderProjects/OutputDemo/Flappy/obj/Debug/Flappy.csproj.CopyComplete
+/home/ashton/RiderProjects/OutputDemo/Flappy/obj/Debug/Flappy.exe
+/home/ashton/RiderProjects/OutputDemo/Flappy/obj/Debug/Flappy.pdb
