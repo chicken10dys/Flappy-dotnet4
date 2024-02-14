@@ -1,12 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Profile>Reach</Profile>
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/trevor.lane/Desktop/DELETEME/OutputDemo/OutputDemo/Content/Fonts/TitleFont.spritefont</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Audio/Music/Country.ogg</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Audio/Music/Nature.ogg</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Font2.spritefont</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Backgrounds/Background.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Backgrounds/Ground.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/BigNums.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/Bird.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/BottomPipe.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/ClickInstruction.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/Coins.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/Fader.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/GameOver.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/GetReady.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/MenuBtn.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/New.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/ResultsBox.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/SmallNums.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/Sparkle.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/StartBtn.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/StatsBtn.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/StatsPage.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/Title.png</File>
+    <File>/run/media/ashton/T7/Code/Flappy/Flappy/Content/Images/Sprites/TopPipe.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

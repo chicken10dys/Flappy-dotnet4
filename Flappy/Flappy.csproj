@@ -38,6 +38,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Animation2D">
+      <HintPath>Libraries\Animation2D.dll</HintPath>
+    </Reference>
     <Reference Include="GameUtility">
       <HintPath>Libraries\GameUtility.dll</HintPath>
     </Reference>
@@ -54,6 +57,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="constants.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,8 +69,37 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Audio\Music\Country.ogg" />
+    <Content Include="Content\Audio\Music\Nature.ogg" />
+    <Content Include="Content\Audio\Sound\Die.wav" />
+    <Content Include="Content\Audio\Sound\Flap.wav" />
+    <Content Include="Content\Audio\Sound\Hit.wav" />
+    <Content Include="Content\Audio\Sound\MenuSwoosh.wav" />
+    <Content Include="Content\Audio\Sound\Point.wav" />
+    <Content Include="Content\Fonts\Font.spritefont" />
+    <Content Include="Content\Images\Backgrounds\Background.png" />
+    <Content Include="Content\Images\Backgrounds\Ground.png" />
+    <Content Include="Content\Images\Sprites\BigNums.png" />
+    <Content Include="Content\Images\Sprites\Bird.png" />
+    <Content Include="Content\Images\Sprites\BottomPipe.png" />
+    <Content Include="Content\Images\Sprites\ClickInstruction.png" />
+    <Content Include="Content\Images\Sprites\Coins.png" />
+    <Content Include="Content\Images\Sprites\Fader.png" />
+    <Content Include="Content\Images\Sprites\GameOver.png" />
+    <Content Include="Content\Images\Sprites\GetReady.png" />
+    <Content Include="Content\Images\Sprites\MenuBtn.png" />
+    <Content Include="Content\Images\Sprites\New.png" />
+    <Content Include="Content\Images\Sprites\ResultsBox.png" />
+    <Content Include="Content\Images\Sprites\SmallNums.png" />
+    <Content Include="Content\Images\Sprites\Sparkle.png" />
+    <Content Include="Content\Images\Sprites\StartBtn.png" />
+    <Content Include="Content\Images\Sprites\StatsBtn.png" />
+    <Content Include="Content\Images\Sprites\StatsPage.png" />
+    <Content Include="Content\Images\Sprites\Title.png" />
+    <Content Include="Content\Images\Sprites\TopPipe.png" />
     <Content Include="Icon.bmp" />
     <Content Include="Icon.ico" />
+    <Content Include="Libraries\Animation2D.dll" />
   </ItemGroup>
   <ItemGroup>
     <None Visible="False" Include="$(ProjectDir)Content\bin\DesktopGL\**\*" CopyToOutputDirectory="PreserveNewest" Link="Content\%(RecursiveDir)%(Filename)%(Extension)" />

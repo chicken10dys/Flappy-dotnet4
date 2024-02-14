@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/trevor.lane/Desktop/DELETEME/OutputDemo/OutputDemo/Content/Fonts/TitleFont.spritefont</SourceFile>
-  <SourceTime>2023-10-25T14:23:58.4398582-04:00</SourceTime>
-  <DestFile>C:/Users/trevor.lane/Desktop/DELETEME/OutputDemo/OutputDemo/bin/Debug/Content/Fonts/TitleFont.xnb</DestFile>
-  <DestTime>2023-10-25T14:24:04.2583553-04:00</DestTime>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/ashton/RiderProjects/Flappy/Flappy/Content/Fonts/TitleFont.spritefont</SourceFile>
+  <SourceTime>2023-10-25T14:23:58-04:00</SourceTime>
+  <DestFile>/home/ashton/RiderProjects/Flappy/Flappy/Content/../bin/Debug/Content/Fonts/TitleFont.xnb</DestFile>
+  <DestTime>2024-02-12T19:10:55.7289213-05:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
-  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <ImporterTime>2023-03-19T16:06:30-04:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
-  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <ProcessorTime>2023-03-19T16:06:30-04:00</ProcessorTime>
   <Parameters>
     <Key>PremultiplyAlpha</Key>
     <Value>True</Value>
