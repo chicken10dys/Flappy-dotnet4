@@ -43,3 +43,4 @@
 /run/media/chicken10dys/T7/Code/Flappy/Flappy/obj/Debug/Flappy.exe
 /run/media/chicken10dys/T7/Code/Flappy/Flappy/obj/Debug/Flappy.pdb
 /run/media/chicken10dys/T7/Code/Flappy/Flappy/bin/Debug/Animation2D.dll
+/run/media/ashton/T7/Code/Flappy/Flappy/bin/Debug/Animation2D.dll
